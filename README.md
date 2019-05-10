@@ -2,7 +2,7 @@
 
 ## Authors
 
-- Majed El Helou
+- [Majed El Helou](http://majedelhelou.github.io/)
 - Frederike Dümbgen
 - Sabine Süsstrunk
 
